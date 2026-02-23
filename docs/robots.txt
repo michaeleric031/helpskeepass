@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helpskeepass.readthedocs.io/en/latest/
